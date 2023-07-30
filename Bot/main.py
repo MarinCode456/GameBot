@@ -3,7 +3,7 @@ import sqlite3
 import os
 import bt
 
-bot = telebot.TeleBot('6184934978:AAFqhRNs3lLLvE5857SRRL3RTc3oiX-P4QQ')
+bot = telebot.TeleBot('BOT-KEY')
 
 # Получаем путь до нашей директории
 dirname = os.path.dirname(__file__)
